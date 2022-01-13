@@ -1,12 +1,12 @@
 //Project : Verification of AMBA3 AHB-Lite protocol    //
-//			using Universal Verification Methodology   //
-//													   //
-// Subject:	ECE 593									   //
-// Guide  : Tom Schubert   							   //
-// Date   : May 25th, 2021							   //
-// Team	  :	Shivanand Reddy Gujjula,                   //
-//			Sri Harsha Doppalapudi,                    //
-//			Hiranmaye Sarpana Chandu	               //
+//using Universal Verification Methodology   	       //
+//						       //
+// Subject:	ECE 593				       //
+// Guide  : Tom Schubert   			       //
+// Date   : May 25th, 2021			       //
+// Team	  :	Shivanand Reddy Gujjula,               //
+//			Sri Harsha Doppalapudi,        //
+//			Hiranmaye Sarpana Chandu       //
 // Author : Sri Harsha Doppalapudi                     //
 // Portland State University                           //
 //                                                     //
